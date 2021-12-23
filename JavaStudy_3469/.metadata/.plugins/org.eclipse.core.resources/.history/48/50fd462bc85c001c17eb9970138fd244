@@ -1,0 +1,30 @@
+
+public class Operation2 {
+
+	public static void main(String[] args) {
+		/*
+		 * 
+		 * @author ITPS
+		 * 클래스의 사용설명서
+		 * 
+		 * 논리연산자
+		 * AND: 곱, 
+		 * true && true -> true
+		 * true && false -> false
+		 * 0 : false
+		 * 1 : true
+		 * 
+		 * Or:합,
+		 * true || true -> true
+		 * true || false -> false
+		 * 
+		 * NOT: 반전, 부정
+		 * !true -> false
+		 * !(true || false) -> false
+		 * 
+		 * 
+		 */
+
+	}
+
+}
